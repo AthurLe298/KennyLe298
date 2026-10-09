@@ -1,4 +1,4 @@
-#  I'm Le Hoang (Kenny)
+#  I'm Le Hoang (Arthur)
 
  **Computer Engineering Undergraduate** passionate about **VLSI Design**, with a focus on **Physical Design** for chip development. Currently building my knowledge from RTL to GDSII, especially interested in low power designs.
 
